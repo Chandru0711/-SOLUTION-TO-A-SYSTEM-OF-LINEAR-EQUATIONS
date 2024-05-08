@@ -16,8 +16,8 @@ End the program
 ## Program:
 ```
 #Program to find the solution for the given linear equations.
-#Developed by: Tharika S 
-#RegisterNumber:212222230159
+#Developed by: CHANDRU SM
+#RegisterNumber:212223230034
 import numpy as np
 A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 B = np.array([-9,4,-1])
